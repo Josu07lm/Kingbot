@@ -287,17 +287,17 @@ async function starts() {
 				Iv: '𝗠𝗮𝗮𝗳 𝗹𝗶𝗻𝗸 𝘁𝗶𝗱𝗮𝗸 𝘃𝗮𝗹𝗶𝗱☹️'
 				},
 				only: {
-					group: '[❗] Este comando solo puede ser usado en grupos! ❌',
-					premium: '[❗] ESTE PEDIDO ES SOLO PARA *USUÁRIOS PREMIUMS*',
-					mod: '[❗] ESTE PEDIDO É ESPECÍFICO PARA USUARIO MOD DARK BOT*',
-					benned: 'Você para a banda, por favor, contate o proprietário para abrir sua banda',
-					ownerG: '[❗] Proprietário? Este é um recurso especial para o proprietário do bot ❌',
-					ownerB: '[❗] Proprietário? Este é um recurso especial para o proprietário do bot ❌',
-					userB: `──「 LISTA 」──\nOlá Kak !\nDesculpe, irmã. Você não está registrado como amigo de Dark. Registre-se para fazer amizade com o bot Dark por meio, \n\nCommand : ${prefix}daftar nama|idade\nExemplo : ${prefix}daftar Dark|17\n\n──「 Dark BOT 」──`,
-					admin: '[❗] Este comando só pode ser usado por administradores de grupo! ❌',
-					Badmin: ' [❗] Este comando só pode ser usado quando o bot se torna administrador! ❌',
+					
 				}
-			}
+			}.              group: '[❗] Este comando sólo puede usarse en grupos! ❌',
+					premium: '[❗] ESTE PEDIDO ES SOLO PARA *USUÁRIOS PREMIUMS*',
+					mod: '[❗] ESTE PEDIDO É ESPECÍFICO PARA USUARIO MOD CAUSS BOT*',
+					benned: 'Você para a banda, por favor, contate o proprietário para abrir sua banda',
+					ownerG: '[❗] Josue? Este es un recurso especial para Josue ❌',
+					ownerB: '[❗] Josue? Este es un recurso especial para Josue ❌',
+					userB: `──「 LISTA 」──\nOlá Kak !\nDesculpe, irmã. Você não está registrado como amigo de CAUSS. Registre-se para fazer amizade com o bot Causs por meio, \n\nCommand : ${prefix}daftar nama|idade\nExemplo : ${prefix}daftar Causs|17\n\n──「 CAUSS BOT 」──`,
+					admin: '[❗] Este comando sólo puede ser usado por los administradores del grupo! ❌',
+					Badmin: ' [❗] Este comando solo puede ser usado cuando el bot es administrador del grupo! ❌',
 
 			const botNumber = client.user.jid
 			const ownerNumber = ["593992390339@s.whatsapp.net"] // replace this with your number
