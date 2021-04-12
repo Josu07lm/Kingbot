@@ -288,7 +288,7 @@ async function starts() {
 				},
 				only: {
 					group: '[❗] Este comando sólo puede usarse en grupos! ❌',
-					premium: '[❗] ESTE PEDIDO ES SOLO PARA *USUÁRIOS PREMIUMS*',
+					premium: '[❗] ESTE PEDIDO ES SOLO PARA *USUÁRIOS PREMIUMS FACHEROS*',
 					mod: '[❗] ESTE PEDIDO É ESPECÍFICO PARA USUARIO MOD CAUSS BOT*',
 					benned: 'Você para a banda, por favor, contate o proprietário para abrir sua banda',
 					ownerG: '[❗] Josue? Este es un recurso especial para Josue ❌',
